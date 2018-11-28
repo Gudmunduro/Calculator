@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Calculator
 //
-//  Created by Gudmundur Halldorsson on 1/12/16.
+//  Created by Gudmundur Halldorsson on 12/01/16.
 //  Copyright © 2016 Gudmundur Halldorsson. All rights reserved.
 //
 
