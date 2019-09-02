@@ -1,1 +1,1 @@
-Reiknivél fyrir iOS (ekki gert til þess að vera lesið af neinum öðrum en mér)
+Reiknivél fyrir iOS sem ég gerði í 10. bekk þegar ég vissi ekkert hvað ég var að gera
